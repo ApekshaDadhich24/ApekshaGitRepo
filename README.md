@@ -3,4 +3,5 @@
 # - co -author: Apeksha Dadhich
 - Ojashwa Tripathi says hello to Team Encrypted Syndicate.
 - Tejashwa Tripati says hello, nice to meet you all
-- Temp made a change in line 6 for merge conflict
+- Apeksha made some changes to line 6 for merge conflict.
+
